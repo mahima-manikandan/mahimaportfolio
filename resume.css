@@ -1,0 +1,37 @@
+
+div{
+border:2px solid white;
+width: 20rem;
+background-color: #82127c ;
+padding: 20px;
+color: white;
+background-image: url("img/back.gif");
+
+}
+.name{
+display: flex;
+flex-direction: row;
+margin-left: 40rem;
+padding: 10px;
+padding-top: 20px;
+    width: 30%;
+}
+.ex{
+background-color: #82127c  ;
+
+width: 200%;
+color: white;
+background-image: url("img/back.gif");
+
+}
+img{
+height: 40px;
+width: 20%;
+}
+/**{
+background-image: url("../image/gif.gif");
+}*/
+.img{
+width: 70%;
+height: 25%;
+}
